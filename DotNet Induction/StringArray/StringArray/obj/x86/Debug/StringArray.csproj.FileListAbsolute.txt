@@ -1,0 +1,10 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StringArray\StringArray\bin\Debug\StringArray.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StringArray\StringArray\bin\Debug\StringArray.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StringArray\StringArray\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StringArray\StringArray\obj\x86\Debug\StringArray.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\StringArray\StringArray\obj\x86\Debug\StringArray.pdb
+D:\GitRepo\DotNet Induction\StringArray\StringArray\obj\x86\Debug\StringArray.exe
+D:\GitRepo\DotNet Induction\StringArray\StringArray\obj\x86\Debug\StringArray.pdb
+D:\GitRepo\DotNet Induction\StringArray\StringArray\bin\Debug\StringArray.exe
+D:\GitRepo\DotNet Induction\StringArray\StringArray\bin\Debug\StringArray.pdb
+D:\GitRepo\DotNet Induction\StringArray\StringArray\obj\x86\Debug\ResolveAssemblyReference.cache

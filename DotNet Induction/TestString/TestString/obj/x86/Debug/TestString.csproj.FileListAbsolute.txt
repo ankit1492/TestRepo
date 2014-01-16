@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\TestString\TestString\bin\Debug\TestString.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\TestString\TestString\bin\Debug\TestString.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\TestString\TestString\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\TestString\TestString\obj\x86\Debug\TestString.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\TestString\TestString\obj\x86\Debug\TestString.pdb
